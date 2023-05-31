@@ -13,4 +13,6 @@ Pandas 1.4.2, Numpy 1.22.3, matplotlib 3.5.2, sklearn 1.1.1, xgboost 1.6.1, open
 
 The dataset used by the notebook can be downloaded at:
 https://www.medrxiv.org/content/10.1101/2023.05.17.23289772v2.supplementary-material
+Due to the sensitive nature of potentially identifying information exact age can currently only be provided upon reasonable request.
+
 
