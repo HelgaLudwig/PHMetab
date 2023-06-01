@@ -12,9 +12,9 @@ This code computes the ROC of a trained Random forest and XGBoost Model seen in 
 Requirements:
 Python version 3.9 or higher
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Packages used in the code:
 Pandas 1.4.2, Numpy 1.22.3, matplotlib 3.5.2, sklearn 1.1.1, xgboost 1.6.1, openpyxl
