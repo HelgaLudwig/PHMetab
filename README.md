@@ -1,7 +1,7 @@
 # PHMetab
 Lipidomics for diagnosis and prognosis of pulmonary hypertension
 
-This repository provides the code for the following paper: https://www.medrxiv.org/content/10.1101/2023.05.17.23289772v2.
+This repository provides the code for the following paper: https://doi.org/10.1101/2023.05.17.23289772.
 It contains a Jupyter notebook with Python code that computes the ROC curves of Random Forest and XGBoost models as seen in Figure 3 and S4 of the manuscript.
 
 ### Installation
